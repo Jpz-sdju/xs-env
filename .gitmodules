@@ -1,0 +1,6 @@
+[submodule "wukong_am"]
+	path = wukong_am
+	url = https://github.com/FuWenyi/wukong_am.git
+[submodule "NEMU"]
+	path = NEMU
+	url = https://github.com/OpenXiangShan/NEMU.git

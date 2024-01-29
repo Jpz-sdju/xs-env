@@ -4,3 +4,6 @@
 [submodule "NEMU"]
 	path = NEMU
 	url = https://github.com/OpenXiangShan/NEMU.git
+[submodule "newcore"]
+	path = newcore
+	url = git@github.com:Jpz-sdju/newcore.git
